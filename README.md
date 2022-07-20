@@ -1,0 +1,1 @@
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermewolf&hide=java&layout=compact&theme=dark)![Github Stats](https://github-readme-stats.vercel.app/api?username=guilhermewolf&theme=cobalt&show_icons=true) 
